@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lobstercare-geofs-mcp-badge.jpg)](https://mseep.ai/app/lobstercare-geofs-mcp)
+
 # GeoFS MCP Server
 
 A Model Context Protocol (MCP) server for the GeoFS flight simulator, allowing AI models to control and interact with aircraft in the GeoFS browser-based flight simulator.
